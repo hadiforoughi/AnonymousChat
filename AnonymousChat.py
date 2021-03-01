@@ -1,11 +1,6 @@
 import socket
 import time
 import threading
-import sys
-import select
-import tty
-import termios
-import threading
 
 EXIT_FLAG = False
 NAME = ""

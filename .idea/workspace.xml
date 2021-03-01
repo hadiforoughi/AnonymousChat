@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adc08010-1aff-4a16-876c-c56fd7dceacf" name="Default Changelist" comment="" />
+    <list default="true" id="adc08010-1aff-4a16-876c-c56fd7dceacf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/proj3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/proj3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnonymousChat.py" beforeDir="false" afterPath="$PROJECT_DIR$/AnonymousChat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eaTTmmikgEPjUb9YpqBZ6XHWPu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,8 +33,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../proj1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.AnonymousChat">
@@ -169,6 +181,7 @@
       <workItem from="1594913783288" duration="5668000" />
       <workItem from="1595616054861" duration="2305000" />
       <workItem from="1595676330769" duration="716000" />
+      <workItem from="1614616859677" duration="384000" />
     </task>
     <servers />
   </component>
@@ -176,34 +189,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="747" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1595676451336">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="716" y="268" width="530" height="605" key="FileChooserDialogImpl" timestamp="1614617234295">
+      <screen x="72" y="34" width="1848" height="1046" />
     </state>
-    <state x="747" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1595676451336" />
-    <state width="1807" height="533" key="GridCell.Tab.0.bottom" timestamp="1595616657028">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="716" y="268" width="530" height="605" key="FileChooserDialogImpl/72.34.1848.1046@72.34.1848.1046" timestamp="1614617234295" />
+    <state width="1792" height="394" key="GridCell.Tab.0.bottom" timestamp="1614617080315">
+      <screen x="72" y="34" width="1848" height="1046" />
     </state>
-    <state width="1807" height="533" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1595616657028" />
-    <state width="1807" height="533" key="GridCell.Tab.0.center" timestamp="1595616657027">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1792" height="394" key="GridCell.Tab.0.bottom/72.34.1848.1046@72.34.1848.1046" timestamp="1614617080315" />
+    <state width="1792" height="394" key="GridCell.Tab.0.center" timestamp="1614617080314">
+      <screen x="72" y="34" width="1848" height="1046" />
     </state>
-    <state width="1807" height="533" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1595616657027" />
-    <state width="1807" height="533" key="GridCell.Tab.0.left" timestamp="1595616657027">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1792" height="394" key="GridCell.Tab.0.center/72.34.1848.1046@72.34.1848.1046" timestamp="1614617080314" />
+    <state width="1792" height="394" key="GridCell.Tab.0.left" timestamp="1614617080313">
+      <screen x="72" y="34" width="1848" height="1046" />
     </state>
-    <state width="1807" height="533" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1595616657027" />
-    <state width="1807" height="533" key="GridCell.Tab.0.right" timestamp="1595616657028">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1792" height="394" key="GridCell.Tab.0.left/72.34.1848.1046@72.34.1848.1046" timestamp="1614617080313" />
+    <state width="1792" height="394" key="GridCell.Tab.0.right" timestamp="1614617080314">
+      <screen x="72" y="34" width="1848" height="1046" />
     </state>
-    <state width="1807" height="533" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1595616657028" />
-    <state x="482" y="187" key="SettingsEditor" timestamp="1594818509174">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1792" height="394" key="GridCell.Tab.0.right/72.34.1848.1046@72.34.1848.1046" timestamp="1614617080314" />
+    <state x="361" y="104" width="1269" height="912" key="SettingsEditor" timestamp="1614617244824">
+      <screen x="72" y="34" width="1848" height="1046" />
     </state>
-    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1594818509174" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1595676339403">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1595676339403" />
+    <state x="361" y="104" width="1269" height="912" key="SettingsEditor/72.34.1848.1046@72.34.1848.1046" timestamp="1614617244824" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/proj3$c2.coverage" NAME="c2 Coverage Results" MODIFIED="1594914008077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -212,6 +221,6 @@
     <SUITE FILE_PATH="coverage/proj3$chat.coverage" NAME="chat Coverage Results" MODIFIED="1595616107489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/proj3$test.coverage" NAME="test Coverage Results" MODIFIED="1594917802824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/proj3$server.coverage" NAME="server Coverage Results" MODIFIED="1594683488268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/proj3$AnonymousChat.coverage" NAME="AnonymousChat Coverage Results" MODIFIED="1595676411211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/proj3$AnonymousChat.coverage" NAME="AnonymousChat Coverage Results" MODIFIED="1614617076343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
