@@ -78,7 +78,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is my network course project. My project was build anonymous chat in local networks and communicate with by CLI. At first, My app sends anonymous chat request to local network with UDP broadcasting, then if anyone accept this request, chat will start with TCP potocol. if you familar with Farsi language you can read description.pdf in this repository.
+This is my network course project in which I developed anonymous chat within local networks.In this project client interact with app using CLI. At first, My app sends anonymous chat request to local network via UDP broadcasting, next if anyone accept this request, chat will be started using TCP potocol. The Project description is provided in description.pdf (in persian language).
 
 
 ### Built With
@@ -90,7 +90,7 @@ This is my network course project. My project was build anonymous chat in local 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-this project runs on linux operating system, if you haven,t linux you must change code for running in your system.
+this project runs on linux operating system, if you don't have linux you must change code for running in your system.
 
 ### Prerequisites
 
