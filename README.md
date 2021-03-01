@@ -116,7 +116,8 @@ after creating virtualenv, cd to working directory and run AnonymousChat.py, you
    python3 AnonymousChat.py
    ```
 next, app asks your name, enter your name then app show "press 1 for create anonymous chat or 2 for communication" message, if you enter 1 app send request to others client and if anyone accepted, chat will be start or if you press 2 app waiting for request.
-[![Product Name Screen Shot][product-screenshot]]
+
+![Product Name Screen Shot][product-screenshot]
 
 <!-- ROADMAP -->
 ## Roadmap
