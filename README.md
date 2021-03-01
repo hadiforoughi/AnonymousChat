@@ -164,6 +164,6 @@ Project Link: [https://github.com/hadiforoughi/AnonymousChat](https://github.com
 [issues-shield]: https://img.shields.io/github/issues/hadiforoughi/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/hadiforoughi/repo/issues
 [license-shield]: https://img.shields.io/github/license/hadiforoughi/repo.svg?style=for-the-badge
-[license-url]: https://github.com/hadiforoughi/repo/blob/master/LICENSE.txt
+[license-url]: https://github.com/hadiforoughi/AnonymousChat/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/hadi-foroughi-0130aa169/
