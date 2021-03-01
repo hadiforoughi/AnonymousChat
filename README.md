@@ -155,14 +155,14 @@ Project Link: [https://github.com/hadiforoughi/AnonymousChat](https://github.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/hadiforoughi/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/hadiforoughi/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/hadiforoughi/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/hadiforoughi/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/hadiforoughi/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/hadiforoughi/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/hadiforoughi/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/hadiforoughi/repo/issues
+[contributors-shield]: https://img.shields.io/github/contributors/hadiforoughi/AnonymousChat.svg?style=for-the-badge
+[contributors-url]: https://github.com/hadiforoughi/license-shield/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/hadiforoughi/AnonymousChat.svg?style=for-the-badge
+[forks-url]: https://github.com/hadiforoughi/license-shield/network/members
+[stars-shield]: https://img.shields.io/github/stars/hadiforoughi/AnonymousChat.svg?style=for-the-badge
+[stars-url]: https://github.com/hadiforoughi/license-shield/stargazers
+[issues-shield]: https://img.shields.io/github/issues/hadiforoughi/AnonymousChat.svg?style=for-the-badge
+[issues-url]: https://github.com/hadiforoughi/license-shield/issues
 [license-shield]: https://img.shields.io/github/license/hadiforoughi/AnonymousChat.svg?style=for-the-badge
 [license-url]: https://github.com/hadiforoughi/AnonymousChat/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
