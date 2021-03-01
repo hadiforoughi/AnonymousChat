@@ -107,13 +107,16 @@ this project runs on linux operating system, if you don't have linux you must ch
    git clone https://github.com/hadiforoughi/AnonymousChat.git
    ```
 2. create virtualenv
-3. install packages in requirements.txt
-4. run AnonymousChat.py
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-
+after creating virtualenv, cd to working directory and run AnonymousChat.py, you can run this app with below command:
+   ```sh
+   python3 AnonymousChat.py
+   ```
+next, app asks your name, enter your name then app show "press 1 for create anonymous chat or 2 for communication" message, if you enter 1 app send request to others client and if anyone accepted, chat will be start or if you press 2 app waiting for request.
+[![Product Name Screen Shot][product-screenshot]](images/Screenshot.png)
 
 <!-- ROADMAP -->
 ## Roadmap
